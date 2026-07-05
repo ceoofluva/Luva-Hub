@@ -1,0 +1,20 @@
+# LICENSE
+
+Copyright (c) 2026 by ceoofluva
+
+All rights reserved.
+
+## 1. GRANT OF LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, run, and execute the Software within the Roblox platform environment for its intended purposes.
+
+## 2. RESTRICTIONS & PROHIBITED USES
+You are strictly prohibited from engaging in any of the following activities:
+* **Deobfuscation & Reverse Engineering:** You may not deobfuscate, reverse engineer, decompile, disassemble, or decrypt the Software's source code, nor attempt to derive the original human-readable code.
+* **Environment Logging:** You may not utilize environment loggers (envloggers), hook functions, or hook environments to intercept, capture, dump, or expose the internal Luau runtime code or structure.
+* **Malicious Intent:** You may not use, modify, or adapt any part of this Software or its uncovered source code to create exploits, cheats, malicious tools, or any software that violates the Roblox Terms of Service.
+
+## 3. TERMINATION
+Any breach or violation of the restrictions listed in Section 2 will automatically terminate your right to use this Software immediately. Legal remedies may be pursued for unauthorized reverse engineering or IP theft.
+
+## 4. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
