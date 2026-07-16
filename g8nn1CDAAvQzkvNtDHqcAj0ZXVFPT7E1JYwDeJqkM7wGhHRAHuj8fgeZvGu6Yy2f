@@ -14,6 +14,4 @@
 
 ]]
 
-script_key = "wayrjclptlmgujq4jdvhbi3r"
-
 loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/a77491054b5698a81164066fec3c32770d9d1359d057a74d9df025fe106a9c9c.lua"))()
