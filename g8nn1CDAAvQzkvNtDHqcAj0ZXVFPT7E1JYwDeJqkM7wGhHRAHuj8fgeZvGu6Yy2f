@@ -14,4 +14,4 @@
 
 ]]
 
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/a77491054b5698a81164066fec3c32770d9d1359d057a74d9df025fe106a9c9c.lua"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/c42d3198a6263e736f6a1d7025da73a616448d7e61d6bfa30ee317df46bb8f79/download"))()
