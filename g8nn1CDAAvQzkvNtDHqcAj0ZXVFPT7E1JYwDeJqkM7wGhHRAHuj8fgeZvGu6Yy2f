@@ -14,4 +14,20 @@
 
 ]]
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/c42d3198a6263e736f6a1d7025da73a616448d7e61d6bfa30ee317df46bb8f79/download"))()
+local plrs = game:GetService("Players")
+local me = plrs.LocalPlayer
+local link = "https://discord.gg/JFNaUcDA6P"
+
+pcall(function()
+    if type(setclipboard) == "function" then
+        setclipboard(link)
+    elseif type(toclipboard) == "function" then
+        toclipboard(link)
+    elseif type(writeclipboard) == "function" then
+        writeclipboard(link)
+    end
+end)
+
+pcall(function()
+    me:Kick("Luva Hub is now paid. The Discord link has been automatically copied to your clipboard. Please join our Discord server.")
+end)
